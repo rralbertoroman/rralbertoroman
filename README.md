@@ -1,5 +1,9 @@
-## Hi there 👋
+## Qué bolá! 👋
 
+My name is Alberto Román. I completed my B. Eng. in Automation Enigneering at CUJAE in 2023. Since then I have been working in parallel as a Full Stack Developer and as a Professor at my university.
+
+ - 🔭 I’m currently working on AI solutions remotely at GSI 
+ - 📫 How to reach me: You can DM me on LinkedIn and my email which you can find on my profile. You can also follow me on X but I do not post regularly. I speak Spanish, English, French and German **fluently**.
 <!--
 **rralbertoroman/rralbertoroman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
