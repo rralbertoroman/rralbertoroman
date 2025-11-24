@@ -8,10 +8,10 @@ My name is Alberto Román. I completed my B. Eng. in Automation Engineering at C
  - 📫 How to reach me: You can **DM me on LinkedIn** and my **email** which you can find on my profile. You can also follow me on X but I do not post regularly. 
  
  Spoken languages 🗣️
- - Spanish🇪🇸
- - English🇬🇧
- - German🇩🇪 
- - French🇫🇷
+ - Spanish 🇪🇸
+ - English 🇬🇧
+ - German 🇩🇪 
+ - French 🇫🇷
 <!--
 **rralbertoroman/rralbertoroman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
