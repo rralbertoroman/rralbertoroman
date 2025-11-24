@@ -1,4 +1,5 @@
 ## Qué bolá! 👋
+[![Python - 6 PRs](https://img.shields.io/badge/Python-6%20PRs-yellow?logo=python&logoColor=white)] [![TypeScript - 5 PRs](https://img.shields.io/badge/TypeScript-5%20PRs-blue?logo=typescript&logoColor=white)] [![Jupyter Notebook - 3 PRs](https://img.shields.io/badge/Jupyter%20Notebook-3%20PRs-orange?logo=jupyter&logoColor=white)]
 
 My name is Alberto Román. I completed my B. Eng. in Automation Engineering at CUJAE in 2023. Since then I have been working in parallel as a Full Stack Developer and as a Professor at my university.
 
