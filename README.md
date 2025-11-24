@@ -5,7 +5,13 @@ My name is Alberto Román. I completed my B. Eng. in Automation Engineering at C
 
  - 💻 I’m currently working Full-Stack on AI solutions at GSI.
  - 🔬 My research is about vision models for the diagnosis retinal diseases using fundus and OCT images.
- - 📫 How to reach me: You can **DM me on LinkedIn** and my **email** which you can find on my profile. You can also follow me on X but I do not post regularly. I speak Spanish🇪🇸, English🇬🇧, French🇫🇷 and German🇩🇪 **fluently**.
+ - 📫 How to reach me: You can **DM me on LinkedIn** and my **email** which you can find on my profile. You can also follow me on X but I do not post regularly. 
+ 
+ Spoken languages 🗣️
+ - Spanish🇪🇸
+ - English🇬🇧
+ - German🇩🇪 
+ - French🇫🇷
 <!--
 **rralbertoroman/rralbertoroman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
