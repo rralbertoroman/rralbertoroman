@@ -1,7 +1,7 @@
 ## Qué bolá! 👋
-![Python - 9 PRs](https://img.shields.io/badge/Python-9%20PRs-blue?logo=python&logoColor=white) ![TypeScript - 5 PRs](https://img.shields.io/badge/TypeScript-5%20PRs-yellow?logo=typescript&logoColor=white)
+![Python - 45 PRs](https://img.shields.io/badge/Python-45%20Merged%20PRs-blue?logo=python&logoColor=white) ![TypeScript - 5 PRs](https://img.shields.io/badge/TypeScript-5%20Merged%20PRs-yellow?logo=typescript&logoColor=white)
 
-My name is Alberto Román. I completed my B. Eng. in Automation Engineering at CUJAE in 2023. Since then I have been working in parallel as a Full Stack Developer and as a Professor at my university.
+My name is Alberto Román. I completed my B. Eng. in Automation Engineering at CUJAE in 2023. I currently work as a Full Stack Developer
 
  - 🔭 I’m currently working on AI solutions remotely at GSI as well as working on my own research about AI detection of retinal diseases.
  - 📫 How to reach me: You can DM me on LinkedIn and my email which you can find on my profile. You can also follow me on X but I do not post regularly. I speak Spanish, English, French and German **fluently**.
