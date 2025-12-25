@@ -40,13 +40,11 @@ Here are some ideas to get you started:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" title="Numpy" alt="np" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" title="Pandas" alt="pd" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fastapi/fastapi-original.svg" title="Fastapi" alt="fastapi" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original.svg" title="Flask" alt="flask" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" title="Django"  alt="django" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="postgresql" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="aws" width="40" height="40"/>&nbsp;   
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" title="Docker" alt="docker" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" title="GitHub" alt="github" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gitlab/gitlab-original.svg" title="GitLab" alt="gitlab" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="Javascript" alt="js" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg" title="Typescript" alt="ts" width="40" height="40"/>&nbsp;
