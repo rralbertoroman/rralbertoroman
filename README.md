@@ -1,7 +1,7 @@
 ## Qué bolá! 👋
 ![Python - 45 PRs](https://img.shields.io/badge/Python-45%20Merged%20PRs-blue?logo=python&logoColor=white) ![TypeScript - 5 PRs](https://img.shields.io/badge/TypeScript-5%20Merged%20PRs-yellow?logo=typescript&logoColor=white)
 
-My name is Alberto Román. I completed my B. Eng. in Automation Engineering at CUJAE in 2023.
+My name is Alberto Román Ramos Rodríguez. I completed my B. Eng. in Automation Engineering at CUJAE in 2023.
 
  - 💻 I’m currently working Full-Stack on AI solutions at GSI.
  - 🔬 My research is about vision models for the diagnosis retinal diseases using fundus and OCT images.
