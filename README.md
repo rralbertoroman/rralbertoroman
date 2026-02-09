@@ -1,5 +1,5 @@
 ## Qué bolá! 👋
-![Python - 45 PRs](https://img.shields.io/badge/Python-45%20Merged%20PRs-blue?logo=python&logoColor=white) ![TypeScript - 5 PRs](https://img.shields.io/badge/TypeScript-5%20Merged%20PRs-yellow?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-45%20Merged%20PRs-blue?logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-5%20Merged%20PRs-yellow?logo=typescript&logoColor=white)
 
 My name is Alberto Román Ramos Rodríguez. I completed my B. Eng. in Automation Engineering at CUJAE in 2023.
 
